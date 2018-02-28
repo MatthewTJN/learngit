@@ -5,3 +5,5 @@ Git is free software distributed under the GPL.
 
 Create a new branch is quick and simple.
  test --no--ff
+
+ test stash
