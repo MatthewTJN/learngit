@@ -4,6 +4,6 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
 Create a new branch is quick and simple.
- test --no--ff
+test --no-ff
 
- test stash
+test 多人合作发生冲突的情况
